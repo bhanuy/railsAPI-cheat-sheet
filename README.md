@@ -5,7 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Gem Library
+
+  [Shoulda-Matchers](https://github.com/ruby-project/todos-api/helper-readme/gemlib/shoulda-matcher.md)
 
 * System dependencies
 
