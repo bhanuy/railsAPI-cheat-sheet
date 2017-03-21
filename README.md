@@ -9,7 +9,7 @@ Things you may want to cover:
 
   [Shoulda-Matchers](https://github.com/bhanuy/railsAPI-cheat-sheet/blob/master/helper-readme/gemlib/shoulda-matcher.md)
 
-* System dependencies
+  [factory_girl_rails](https://github.com/bhanuy/railsAPI-cheat-sheet/blob/master/helper-readme/gemlib/factory-girl-rails.md)
 
 * Configuration
 

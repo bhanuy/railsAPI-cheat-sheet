@@ -1,4 +1,4 @@
-#Shoulda Matchers
+### Shoulda Matchers
 
 *Shoulda Matchers provides RSpec- and Minitest-compatible one-liners that test common Rails functionality.*
 
@@ -49,4 +49,4 @@ RSpec.describe Person, type: :model do
 end
 ```
 
-###For more detail visit [shoulda-matchers]  https://github.com/thoughtbot/shoulda-matchers
+### For more detail visit [shoulda-matchers]  https://github.com/thoughtbot/shoulda-matchers
