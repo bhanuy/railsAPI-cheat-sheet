@@ -11,6 +11,10 @@ Things you may want to cover:
 
   [factory_girl_rails](https://github.com/bhanuy/railsAPI-cheat-sheet/blob/master/helper-readme/gemlib/factory-girl-rails.md)
 
+  [faker](https://github.com/bhanuy/railsAPI-cheat-sheet/blob/master/helper-readme/gemlib/faker.md)
+
+
+
 * Configuration
 
 * Database creation
