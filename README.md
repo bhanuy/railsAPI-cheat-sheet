@@ -7,7 +7,7 @@ Things you may want to cover:
 
 * Gem Library
 
-  [Shoulda-Matchers](https://github.com/ruby-project/todos-api/helper-readme/gemlib/shoulda-matcher.md)
+  [Shoulda-Matchers](https://github.com/bhanuy/railsAPI-cheat-sheet/blob/master/helper-readme/gemlib/shoulda-matcher.md)
 
 * System dependencies
 
